@@ -11,5 +11,6 @@ config_version=5
 [application]
 
 config/name="GameCapstone"
+run/main_scene="uid://dno6mu2mffrpf"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
